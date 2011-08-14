@@ -5,9 +5,8 @@
   "version": "0.0.1",
   "dependencies": {
     "htmlparser": ">= 1.7.3"
-  },
-  "devDependencies": {
-    "coffee-script": ">= 1.1.1"
+    ,"coffee-script": ">= 1.1.1"
+    ,"express":"2.4.4"
   },
   "engines": {"node": ">= 0.4.7"}
 }
